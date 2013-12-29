@@ -5664,6 +5664,7 @@ TM88 - Sleep Talk
 TM89 - U-turn
 TM90 - Substitute
 TM94 - Rock Smash
+TM99 - Dazzling Gleam
 TM100 - Confide
 HM02 - Fly
 
